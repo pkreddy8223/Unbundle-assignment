@@ -6,7 +6,7 @@ The page is optimized for both **desktop** and **mobile** views, maintaining pix
 ---
 
 ## 🚀 Live Demo
-🔗 **Live Website:** _Add your Netlify/Vercel URL here_
+🔗https://gleaming-strudel-09d78e.netlify.app/
 
 ---
 
